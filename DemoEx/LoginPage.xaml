@@ -1,0 +1,30 @@
+﻿<Window x:Class="DemoEx.LoginPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoEx"
+        mc:Ignorable="d"
+        Title="LoginPage"  WindowState="Maximized" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="200*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Почта:" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Text="почта" Grid.Row="1" Width="150" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="EmailTextBox"/>
+
+        <TextBlock Grid.Row="2" Text="Пароль:"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <PasswordBox Password="пароль" Grid.Row="3" Width="150" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="PasswordBox"/>
+
+        <Button Grid.Row="4" Content="Авторизоваться"  HorizontalAlignment="Center" VerticalAlignment="Center" Click="LoginButton_Click"/>
+
+        <Button Grid.Row="5" Content="Зарегистрироваться"  HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click" />
+    </Grid>
+</Window>

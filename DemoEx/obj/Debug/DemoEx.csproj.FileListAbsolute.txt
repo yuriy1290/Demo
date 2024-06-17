@@ -1,0 +1,39 @@
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\bin\Debug\DemoEx.exe.config
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\bin\Debug\DemoEx.exe
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\bin\Debug\DemoEx.pdb
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.AssemblyReference.cache
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\MainWindow.g.cs
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\App.g.cs
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx_MarkupCompile.cache
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx_MarkupCompile.lref
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\MainWindow.baml
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.g.resources
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.Properties.Resources.resources
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.GenerateResource.cache
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.CoreCompileInputs.cache
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.exe
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.pdb
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\LoginPage.g.cs
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\RegistrationPage.g.cs
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\LoginPage.baml
+C:\Users\Alexanders\source\repos\DemoEx\DemoEx\obj\Debug\RegistrationPage.baml
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.AssemblyReference.cache
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\LoginPage.g.cs
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\MainWindow.g.cs
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\RegistrationPage.g.cs
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx_MarkupCompile.cache
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx_MarkupCompile.lref
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.exe
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.pdb
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\bin\Debug\DemoEx.exe.config
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\bin\Debug\DemoEx.exe
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\bin\Debug\DemoEx.pdb
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\App.g.cs
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\LoginPage.baml
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\MainWindow.baml
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\RegistrationPage.baml
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.g.resources
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.Properties.Resources.resources
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.GenerateResource.cache
+C:\Users\DELUR\OneDrive\Рабочий стол\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.CoreCompileInputs.cache

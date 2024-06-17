@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|c:\\users\\alexanders\\source\\repos\\demoex\\demoex\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|C:\\Users\\Alexanders\\source\\repos\\DemoEx\\demoex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB20AEA-47C7-4061-90D5-34B1C3386F81}|DemoEx\\DemoEx.csproj|solutionrelative:demoex\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoEx\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoEx\\MainWindow.xaml.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAUwPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:45:46.157Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoEx\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\MainWindow.xaml",
+              "RelativeToolTip": "DemoEx\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T10:45:47.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\DataBase.cs",
+              "RelativeDocumentMoniker": "DemoEx\\Models\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\DataBase.cs",
+              "RelativeToolTip": "DemoEx\\Models\\DataBase.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAQwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:06:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "DemoEx\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\LoginPage.xaml.cs",
+              "RelativeToolTip": "DemoEx\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:50:21.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "DemoEx\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "DemoEx\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:54:44.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "DemoEx\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\RegistrationPage.xaml",
+              "RelativeToolTip": "DemoEx\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T14:44:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\App.xaml",
+              "RelativeDocumentMoniker": "DemoEx\\App.xaml",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\App.xaml",
+              "RelativeToolTip": "DemoEx\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T14:45:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DemoEx\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\User.cs",
+              "RelativeToolTip": "DemoEx\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:05:52.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DemoEx\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\Role.cs",
+              "RelativeToolTip": "DemoEx\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:46:16.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Office.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\Office.cs",
+              "RelativeDocumentMoniker": "DemoEx\\Models\\Office.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\Models\\Office.cs",
+              "RelativeToolTip": "DemoEx\\Models\\Office.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:54:45.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "DemoEx\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\LoginPage.xaml",
+              "RelativeToolTip": "DemoEx\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T14:43:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DemoEx\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexanders\\source\\repos\\DemoEx\\DemoEx\\App.xaml.cs",
+              "RelativeToolTip": "DemoEx\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:25:49.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
